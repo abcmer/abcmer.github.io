@@ -9,4 +9,4 @@ I headed South on the trail from my apartment on Briar Pl in Lakeview East made 
 
 My [official training program](https://www.halhigdon.com/training-programs/marathon-training/novice-1-marathon/) is 18 weeks and wont commence until June, so the next 2 months are an opportunity to get back into running shape after not running regularly since high school. During this period, I will be working to focus on my form and breathing, so it comes as second nature in June.
 
-![_config.yml]({{ site.baseurl }}/images/2019-4-7.png)
+![_config.yml]({{ site.baseurl }}/images/2019-4-6.png)
