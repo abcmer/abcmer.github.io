@@ -9,6 +9,6 @@ My name is Adam and I am currently training for my first marathon, the [2019 Chi
 
 ### Contact me
 
-[Github](https://github.com/abcmer)
-[LinkedIn](https://www.linkedin.com/in/adam-siemer-36582229/)
+- [Github](https://github.com/abcmer)
+- [LinkedIn](https://www.linkedin.com/in/adam-siemer-36582229/)
 
