@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Happy Monday
+title: Happy Easter
 ---
 
-Just a day after Chicago's April blizzard, the snow has melted and its 50 degrees again. I took the North Ave beach loop in revese today. I felt some tightness in my left thigh in the first half so stopped for some stretching at the bridge. That did the trick, and I felt good on the way home. I turned it on the last half mile to test myself and felt solid. Logan made some chicken and wild rice soup today in the Instapot which I will be chowing shortly.
+Today I returned from a 4 day roadtrip with my buddies Jake and Sam to Mammoth Cave KY, Louisville KY, and Bloomington IN. We caught some rain so I wasn't able to get out for a run despite packing my Mizunos. Arriving in Wheaton today to enjoy Easter brunch, the weather was perfect in the mid 70's for a run. I took a trip down memory lane, running to Northside park and taking 2 laps around the lake before returning home for a total of 3.52 miles. I was as comfortable as I've been since starting this blog, experiencing no discomfort in my left knee. There were many families out, enjoying the day in the park. Looking forward to another warm day tomorrow for running.
 
-**North Ave Beach Reverse** 3.88 miles
-![_config.yml]({{ site.baseurl }}/images/2019-04-15.png)
+**Home to Northside x2 Loop** 3.52 miles
+![_config.yml]({{ site.baseurl }}/images/2019-04-21.png)
